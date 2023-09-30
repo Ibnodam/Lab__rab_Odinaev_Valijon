@@ -1,4 +1,5 @@
-﻿//Console.Write("Введите значение x:");
+///////////////// Лабораторная работа 1 задание 1
+//Console.Write("Введите значение x:");
 //double x = double.Parse(Console.ReadLine());
 //Console.Write("Введите значение y:");
 //double y = double.Parse(Console.ReadLine());
@@ -9,9 +10,7 @@
 //double D = numerator / denominator;
 //Console.WriteLine($"D = {D}");
 
-
-
-
+////////////// Лабораторная работа 1 задание 2
 //Console.Write("Введите координату a1:");
 //double a1 = double.Parse(Console.ReadLine());
 //Console.Write("Введите координату a2:");
@@ -25,6 +24,8 @@
 //Double Cos_alpha = numerator/denominator;
 //Console.WriteLine($"Cos_alpha = {Cos_alpha}");
 
+
+//////////////////////// Лабораторная работа 1 задание 3
 
 
 
