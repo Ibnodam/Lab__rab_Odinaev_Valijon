@@ -26,8 +26,11 @@
 
 
 //////////////////////// Лабораторная работа 1 задание 3
-
-
+Console.Write("Введите номер места товара: ");
+int a = int.Parse(Console.ReadLine());
+ int level = (a / 120) + 1;
+int section = (a % 120 / 15) + 1;
+Console.WriteLine($"Ярус: {level}, Секция: {section}");
 
 
 
